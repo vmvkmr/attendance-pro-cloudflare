@@ -1,0 +1,6 @@
+name = "attendance-pro-cloudflare"
+main = "worker.js"
+compatibility_date = "2026-09-12"
+
+[assets]
+# No static assets; the Worker serves the complete app.
